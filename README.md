@@ -1,5 +1,9 @@
 # SQL-Project---Zomato-Business-Analysis-
 
+<p align="center">
+  <img src="images/Zomato-image.jpg" alt="Zomato Analysis" />
+</p>
+
 This project involves analyzing Zomato's customer, restaurant, rider, order, and delivery data to derive business insights, optimize operations, and improve decision-making. The analysis is conducted using SQL.
 
 ---
