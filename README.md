@@ -1,4 +1,4 @@
-# SQL-Project---Zomato-Business-Analysis-
+# SQL-Project: Zomato-Business-Analysis
 
 <p align="center">
   <img src="Zomato%20image.jpg" alt="Zomato Analysis" width="500"/>
