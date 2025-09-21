@@ -18,6 +18,9 @@ The project consists of the following main tables:
 - **Orders**: Contains order details including `order_id`, `customer_id`, `restaurant_id`, `order_item`, `order_date`, `order_time`, `order_status`, and `total_amount`.
 - **Deliveries**: Contains delivery details including `delivery_id`, `order_id`, `delivery_status`, `delivery_time`, and `rider_id`.
 
+  <img width="1325" height="706" alt="image" src="https://github.com/user-attachments/assets/93f3487d-ccbe-4530-a291-8f632e93bfed" />
+
+
 ---
 
 ## Exploratory Data Analysis (EDA)
